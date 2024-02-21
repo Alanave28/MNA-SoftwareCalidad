@@ -1,0 +1,16 @@
+{
+    "1": {
+        "hotel_id": 1,
+        "name": "HOLLIDAY INN",
+        "location": "PACHUCA",
+        "available_rooms": 3,
+        "reserved_rooms": 12
+    },
+    "2": {
+        "hotel_id": 2,
+        "name": "FIESTA INN",
+        "location": "PACHUCA",
+        "available_rooms": 19,
+        "reserved_rooms": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "1": {
+        "cust_id": 1,
+        "name": "ALAN FERNANDEZ",
+        "email": "alan@gmail.com"
+    },
+    "2": {
+        "cust_id": 2,
+        "name": "ALAN AVELINO FERN\u00c1NDEZ",
+        "email": "alan.ave@gmail.com"
+    }
+}
